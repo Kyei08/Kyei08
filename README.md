@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💬 Ask me about web development, JavaScript, Python, and C#
 - 📫 How to reach me: [Email](bediakoemmanuel036@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emmanuel-bediako-877373307/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love gamming and exploring the outdoors.
+- ⚡ Fun fact: I love gaming and exploring the outdoors.
 
 ## 🛠️ Languages and Tools
 
