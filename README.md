@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Languages**: JavaScript, Python, Java, C#
 - **Frontend**: Javascript, HTML, CSS
 - **Backend**: Django
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Databases**: MySQL
 - **Cloud**:  Google Cloud
 - **Tools**: Git, Docker, 
 
